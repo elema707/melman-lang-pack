@@ -576,6 +576,12 @@
 	¿Quién es Destro Savagina?
 	¿Quién es Abraham Selano?
 	¿Quién es Dante Tazas?
+	¿Quién es Mikola Quiere?
+	¿Quién es Zoila Cerda?
+	¿Quién es Elsa Pato?
+	¿Quién es Zacarías Flores del Campo?
+	¿Quién es Aquiles Castro?
+	¿Quién es Elvio Lao?
 	Saludos a Micho, Tito, Gordo, Negro y Cabezón
 	GET STICK BUGGED LOL
 	Never gonna give you up
@@ -894,4 +900,4 @@
 
 
 
-Actualizado hasta la línea 866
+Actualizado hasta la línea 870
